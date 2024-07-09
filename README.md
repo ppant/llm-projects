@@ -1,6 +1,6 @@
 # llm-projects
 GenAI/LLM learning projects 
-Various LLM mini projects codebase and learning I am doing since last year
+Various LLM mini projects codebase and learning 
 
 Resources: 
 https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2
