@@ -82,3 +82,6 @@ TOGETHER_API_KEY=your_together_api_key_here
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright ©️ Pradeep K. Pant
+
